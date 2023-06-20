@@ -1,0 +1,2 @@
+# 2022_summer_training
+請大家建立自己使用名稱的branch，並且上傳該週作業
